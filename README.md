@@ -12,9 +12,7 @@ Take picture when people looking at camera and smiling
   2.  Train machine to recognize when people are facing camera
   3.  Place importance on people closer in the photo, to avoid waiting for background people
 
-Fantasy football machine learning?
+Give metadata to mp3 file using ACoustID
 
-Video game with CPU learning your tendencies
-
-Auto Music Riffs, use machine learning to find what makes something catchy and attempt
+Auto music riffs, use machine learning to find what makes something catchy and attempt
 to generate catchy riffs.
