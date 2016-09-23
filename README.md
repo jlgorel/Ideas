@@ -1,6 +1,12 @@
 # Ideas
 List of my project ideas to make in the future
 
+Easier Ideas:
+
+Give metadata to mp3 file using ACoustID
+
+IMDB find movies/tv shows I'd like
+
 Create sheet music from audio file using machine learning 
   1.  Train machine to recognize basic instruments.
   2.  Train machine to recognize specific notes in general
@@ -12,7 +18,7 @@ Take picture when people looking at camera and smiling
   2.  Train machine to recognize when people are facing camera
   3.  Place importance on people closer in the photo, to avoid waiting for background people
 
-Give metadata to mp3 file using ACoustID
+
 
 Auto music riffs, use machine learning to find what makes something catchy and attempt
 to generate catchy riffs.
