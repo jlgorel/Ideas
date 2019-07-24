@@ -22,4 +22,4 @@ Take picture when people looking at camera and smiling
 
 Melody creator - look at popular melodies in songs (potentially rap beats, examples from music theory, etc) and create new melodies.  Potentially use a RNN and treat it like writing?  If each note got its own character encoding this could be th ebest way to tackle it
 
-Hip-Hop generator:  by (Artist, sub-genre) - pick your choice of: bar, chorus, verse, full song - to be generated in the style of the artist or subgenre you picked.  (Could be hosted online and get popular through r/hiphopheads)
+Hip-Hop generator:  by (Artist, sub-genre) - pick your choice of: bar, chorus, verse, full song - to be generated in the style of the artist or subgenre you picked.  (Could be hosted online and get popular through r/hiphopheads).  Can use this python library to pull lyrics from AZlyrics - https://pypi.org/project/azlyrics/.  
